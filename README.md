@@ -1,21 +1,16 @@
 # My learning: 
 ## Here I'm collecting read articles, books, watched videos and courses.
 
----
-
 ## Topics
 
-### [Fullstack JS](./fullstack-js/fullstack-js.md)
+- ### [Fullstack JS](fullstack-js/fullstack_js.md)
 
-### [Unity and C#]()
+- ### [Unity and C#]()
 
-### [Drawing]()
+- ### [Drawing]()
 
-### [3D]()
+- ### [3D]()
 
-&nbsp;
-
----
 
 
 
