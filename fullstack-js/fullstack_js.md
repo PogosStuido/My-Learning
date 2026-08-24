@@ -8,7 +8,7 @@
 
 - ### [JavaScript]()
 
-- ### [TypeScript]()
+- ### [TypeScript](typescript.md)
 
 - ### [Vite]()
 
