@@ -6,7 +6,7 @@
 
 - ### [Git and GitHub]()
 
-- ### [JavaScript]()
+- ### [JavaScript](javascript.md)
 
 - ### [TypeScript](typescript.md)
 
@@ -19,7 +19,4 @@
 - ### [Express.js]()
 
 - ### [Databases]()
-
-
-
 
