@@ -12,7 +12,7 @@
 
 - ### [Vite]()
 
-- ### [Angular]()
+- ### [Angular](angular.md)
 
 - ### [NodeJs]()
 
