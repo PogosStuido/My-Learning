@@ -20,3 +20,8 @@
 
 - ### [Databases]()
 
+## Paths or full development process 
+- [The Frontend Developer Path](https://scrimba.com/frontend-path-c0j)
+- [The Fullstack Developer Path](https://scrimba.com/fullstack-path-c0fullstack)
+
+

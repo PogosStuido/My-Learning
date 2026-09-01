@@ -8,4 +8,9 @@
 
 
 - [ ] [Иван Петреченко - Полный курс по современному TypeScript](http://udemy.com/course/modern_typescript)
-  - [ ] Current Part - "TypeScript. Необходимый уровень".
+  - [x] Введение (настройка vs code + материалы)
+  - [x] Typescript Базовые знания
+  - [x] Typescript Необходимыи уровень
+  - [ ] Typescript Generics and type manipulations (in proccess)
+  - [ ] Typescript Классы
+  - [ ] Typescript Декораторы и конфигурация
